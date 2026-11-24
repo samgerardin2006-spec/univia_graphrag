@@ -1,0 +1,19 @@
+{
+  "student_id": "S002",
+  "academic_summary": "Fictional school leaver seeking an English-taught economics bachelor.",
+  "grades": {"average": 15, "scale": 20},
+  "previous_qualification": "secondary_school_diploma",
+  "desired_degree_level": "bachelor",
+  "interests": ["economics", "data"],
+  "preferred_countries": ["Italy", "Netherlands"],
+  "annual_total_budget": 18000,
+  "currency": "EUR",
+  "preferred_languages": ["English"],
+  "campus_preferences": ["urban"],
+  "hard_constraints": {
+    "eligible_countries": ["Italy", "Netherlands"],
+    "teaching_languages": ["English"],
+    "require_verified_requirements": true,
+    "max_verification_age_days": 365
+  }
+}

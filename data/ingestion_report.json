@@ -1,0 +1,187 @@
+{
+  "program_count": 99,
+  "rejected_count": 0,
+  "rejected": [],
+  "missing_fields": {
+    "degree_level": 99,
+    "source_url": 1,
+    "last_verified_date": 0,
+    "estimated_living_cost": 99,
+    "full_program_languages": 60
+  },
+  "sheet_coverage": [
+    {
+      "sheet": "Countries",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 8,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Regions",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 14,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Cities",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 19,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Institutions",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 24,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Programmes",
+      "program_row_count": 99,
+      "imported_row_count": 99,
+      "archived_table_row_count": 99,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Domains",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Professions",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 12,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Pathways",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 19,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Admission_Requirements",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 36,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Key_Dates",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 20,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Application_Routes",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 24,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Stats",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 14,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Scholarships",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 3,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Testimonies",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Fact_Checks",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 7,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Sources",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 136,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Datasets",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 3,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Scripts",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Tags",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "FX_Rates",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Prompts",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 0,
+      "unimported_rows": []
+    },
+    {
+      "sheet": "Questions_Issues",
+      "program_row_count": 0,
+      "imported_row_count": 0,
+      "archived_table_row_count": 23,
+      "unimported_rows": []
+    }
+  ],
+  "countries": [
+    "Cyprus",
+    "Portugal",
+    "Romania",
+    "South Africa",
+    "Spain"
+  ],
+  "all_program_rows_imported": true,
+  "archived_table_rows": 461,
+  "country_records": [
+    "Belgium",
+    "Cyprus",
+    "Hungary",
+    "Italy",
+    "Portugal",
+    "Romania",
+    "South Africa",
+    "Spain"
+  ]
+}

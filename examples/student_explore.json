@@ -1,0 +1,16 @@
+{
+  "student_id": "S001",
+  "academic_summary": "Strong in maths; 15/20 average. Interested in economics and data.",
+  "grades": {"average": 15, "scale": 20},
+  "interests": ["economics", "data"],
+  "preferred_subjects": ["finance"],
+  "career_goals": ["analytics"],
+  "preferred_countries": ["Portugal", "South Africa"],
+  "excluded_countries": [],
+  "preferred_languages": ["English"],
+  "campus_preferences": ["urban"],
+  "location_preferences": [],
+  "hard_constraints": {"eligible_countries": ["Portugal", "South Africa"]},
+  "flexible_preferences": [],
+  "expectations_summary": "Explore subject matches; affordability and admission eligibility need verification."
+}

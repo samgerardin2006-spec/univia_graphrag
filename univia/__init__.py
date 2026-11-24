@@ -1,0 +1,1 @@
+"""UNIVIA local GraphRAG prototype."""
